@@ -15,7 +15,7 @@ function App() {
             href="https://github.com/Sean2411"
             target="_blank"
             className="App-link"
-
+            rel="noopener noreferrer"
           >
             <FontAwesomeIcon icon={faGithub} />
           </a>
@@ -23,6 +23,7 @@ function App() {
             href="https://www.linkedin.com/in/sean-lu-7b9ab8192/"
             target="_blank"
             className="App-link"
+            rel="noopener noreferrer"
           >
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
